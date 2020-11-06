@@ -1,0 +1,12 @@
+.gallery {
+  border: 1px solid grey;
+  text-align: center;
+}
+.book {
+  border: 1px solid grey;
+  padding: 5px;
+  margin: 10px;
+  width: 220px;
+  text-align: center;
+  display: inline-block;
+}
